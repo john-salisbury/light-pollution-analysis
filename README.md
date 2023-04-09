@@ -12,7 +12,7 @@ To explore this topic, **I processed, visualized, and summarized 10 years of nig
 
 The data provides annual composite estimates of radiance — the flux of radiation emitted per unit solid angle in a given direction by a unit area of a source — in a rasterized format at a spatial resolution of roughly $500m$. Although it's not a direct measure of sky quality (i.e., darkness), **radiance is a useful way to measure light pollution** and allows us to assess how light pollution has changed in the city of Boulder over the past decade or so.
 
-**In the analysis below, I seek answers to the following questions:**
+**In my analysis, I seek answers to the following questions:**
 - How has radiance in Boulder, CO changed in the past decade?
 - Where within the city is radiance the highest?
 - Is it possible to compile some key recommendations for mitigation of nighttime radiance and light pollution within the city?
